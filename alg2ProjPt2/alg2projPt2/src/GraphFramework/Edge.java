@@ -23,7 +23,8 @@ public Edge(Vertex source ,Vertex target ,int weight) {
 
 //--------------------------------------------------
 //displayInfo method 
-public void displayInfo(){ System.out.println("-------------------------------------------------\n--- route length: "+ weight); }
+public void displayInfo(){
+}
 
     
 }
